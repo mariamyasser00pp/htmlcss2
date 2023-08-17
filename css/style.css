@@ -1,0 +1,73 @@
+ * {
+     box-sizing: border-box;
+     padding: 0px;
+     margin: 0px;
+ }
+
+ 
+
+ nav {
+     background-color: rgb(96, 104, 105);
+     text-align: center;
+    
+ }
+
+ nav a {
+     color: beige;
+     padding: 10px 20px;
+     text-decoration: none;
+
+ }
+
+ main {
+     height: 600px;
+ }
+
+ main aside {
+     width: 20%;
+     background-color: rgb(226, 209, 175);
+     color: black;
+     height: 100%;
+     padding: 30px 20px;
+     float: left;
+
+
+ }
+
+ main section {
+     width: 60%;
+     background-color: rgb(89, 112, 118);
+     height: 100%;
+     float: left;
+     padding: 30px 20px;
+
+ }
+
+ main aside button {
+     background-color: rgb(121, 127, 127);
+     padding: 10px;
+     color: beige;
+     border: none;
+     display: block;
+     margin-top: 10px;
+     margin-left: 45px;
+ }
+
+ main aside input {
+     display: block;
+
+     margin-top: 10px;
+     margin-left: 45px;
+     padding: 5px;
+
+ }
+ .fa-brands{
+    font-size: 25px;
+ }
+ .fa-square-facebook{
+    color: #4867AA ;
+ }
+ .fa-twitter{
+  color:#1DA1F2;
+ }
+
